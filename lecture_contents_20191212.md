@@ -68,5 +68,5 @@ Flask: 웹 서버를 구축하는데 쓰이는 프레임워크
 
 http://artii.herokuapp.com/make?text=키워드
 
-
+http://artii.herokuapp.com/
 
